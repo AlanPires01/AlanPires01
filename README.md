@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de computação na Universsidade Federal do Ceará.
-- 💼 Trabalhando como estagiário em Desenvolvimento Full-Stack na Prefeitura Municipal de SObral.
-- 🌱 Aprendendo mais sobre javascript, PHP, Laravel e Bootstrap.
+- 🎓 Engenheiro de computação pela Universsidade Federal do Ceará.
+- 💼 Desenvolvedor Full-Stack na Prefeitura Municipal de Sobral.
+- 🌱 Aprendendo mais sobre javascript, PHP e React.
 
 ## Minhas Skills
 
