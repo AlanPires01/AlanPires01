@@ -63,7 +63,10 @@
 
 ## 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-José%20Alan%20Pires-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alanpires-engenharia)](https://www.linkedin.com/in/alanpires-engenharia)
-
-[![Gmail](https://img.shields.io/badge/-alanpires.epdw@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:alanpires.epdw@gmail.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=alanpires.epdw@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-pires-engenharia/" alt="LinkedIn"/></a>
+</p>
 
