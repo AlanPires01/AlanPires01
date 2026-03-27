@@ -65,4 +65,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=alanpires-engenharia)]()
 [![Gmail Badge](https://img.shields.io/badge/-alanpires.epdw@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alanpires.epdw@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/AlanPires01)
+
